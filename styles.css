@@ -3,10 +3,12 @@ body {
     color: #0B0026;
     background-color: #F3F3F3;
     font-size: 17px;
+    background-image: url("media/Scroll\ Group\ 3.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 section.home {
     height: 100vh;
-    background-image: url("media/Scroll\ Group\ 3.png");
     width: 100%;
 }
 section.nosotros{
