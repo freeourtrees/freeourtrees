@@ -327,7 +327,7 @@ input {
     }
     .card.especial {
         width: 90%;
-        margin-left: 3em;
+        margin: 2em auto;
     }
     .rectangle {
         width: 90%;

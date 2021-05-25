@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="19.85" viewBox="0 0 20 19.85">
+  <g id="iconito" transform="translate(0 0)">
+    <g id="Group_1" data-name="Group 1" transform="translate(0 0)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="5.5" cy="5.5" r="5.5" transform="translate(0 4)" fill="#0b0026"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="6.5" cy="6.5" r="6.5" transform="translate(6 0)" fill="#0b0026"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="4.5" cy="4.5" r="4.5" transform="translate(11 6)" fill="#0b0026"/>
+      <path id="Path_1" data-name="Path 1" d="M405,1433.16l1.278-9.16h3.3l1.491,9.16Z" transform="translate(-397.178 -1413.31)" fill="#0b0026"/>
+    </g>
+  </g>
+</svg>
