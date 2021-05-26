@@ -35,7 +35,8 @@ div.home {
 nav {
     display: flex;
     width: 100%;
-    padding-top: 2em;
+    padding: 0em 1em;
+    padding-top: 2em !important;
     margin-bottom: 4em;
 }
 .nav-bar ul {
@@ -203,6 +204,8 @@ span.small {
 .member embed{
     margin-bottom: 1em;
 }
+button:focus { outline:0 !important; }
+input:focus { outline:0 !important; }
 
 @media only screen and (max-width: 1200px) {
     div.home {
